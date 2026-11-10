@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'ingrese el nombre de Usuario: '
+5
+1
+7
+usuario
+4
+1
+39
+'¿La contraseña es correcta? (si/no): '
+5
+1
+14
+clave_correcta
+7
+0
+1
+20
+usuario = 'aprendiz'
+4
+1
+23
+'Usuario no reconocido'
+13
+7
+0
+1
+21
+clave_correcta = 'si'
+4
+1
+23
+'Contraseña incorrecta'
+13
+4
+1
+18
+'Acceso permitido'
+13
+13
+1

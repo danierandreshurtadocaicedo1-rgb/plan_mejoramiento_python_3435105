@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'ingrese el precio unitario: '
+5
+1
+6
+precio
+4
+1
+32
+'ingrese la cantidad comprada: '
+5
+1
+8
+cantidad
+6
+1
+5
+total
+17
+precio * cantidad
+4
+1
+41
+'el costo total de la compra es :', total
+1

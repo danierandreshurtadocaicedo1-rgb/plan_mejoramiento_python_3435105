@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'Nombre del evento: '
+5
+1
+6
+evento
+4
+1
+24
+'Precio de la entrada: '
+5
+1
+6
+precio
+4
+1
+24
+'Cantidad de entradas: '
+5
+1
+8
+cantidad
+6
+1
+5
+total
+17
+precio * cantidad
+4
+1
+22
+'Evento:', ' ', evento
+4
+1
+26
+'Cantidad:', ' ', cantidad
+4
+1
+26
+'Costo total:', ' ', total
+1

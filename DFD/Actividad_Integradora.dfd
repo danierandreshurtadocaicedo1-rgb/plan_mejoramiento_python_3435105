@@ -1,0 +1,112 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'ingrese la cantidad de cuadernos:'
+5
+1
+18
+cantidad_cuadernos
+4
+1
+46
+'ingrese el precio unitario de los cuadernos:'
+5
+1
+15
+precio_unitario
+6
+1
+9
+sub_total
+36
+cantidad_cuadernos * precio_unitario
+7
+0
+1
+22
+cantidad_cuadernos < 5
+7
+0
+1
+23
+cantidad_cuadernos <= 9
+6
+1
+9
+descuento
+16
+sub_total * 0.15
+13
+6
+1
+9
+descuento
+16
+sub_total * 0.10
+13
+13
+6
+1
+9
+descuento
+1
+0
+13
+6
+1
+13
+total_parcial
+21
+sub_total - descuento
+7
+0
+1
+17
+sub_total < 50000
+6
+1
+5
+envio
+1
+0
+13
+6
+1
+5
+envio
+4
+5000
+13
+6
+1
+11
+total_final
+21
+total_parcial + envio
+4
+1
+25
+'---FACTURA DE COMPRA---'
+4
+1
+30
+'subtotal es:', ' ', sub_total
+4
+1
+37
+'su descuento es de:', ' ', descuento
+4
+1
+36
+'el costo del envio es:', ' ', envio
+4
+1
+40
+'el total a pagar es:', ' ', total_final
+1

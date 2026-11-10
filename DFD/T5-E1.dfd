@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Ingrese la edad: '
+5
+1
+4
+edad
+6
+1
+10
+mayor_edad
+10
+edad >= 18
+4
+1
+40
+'¿Tiene 18 años o más?', ' ', mayor_edad
+1

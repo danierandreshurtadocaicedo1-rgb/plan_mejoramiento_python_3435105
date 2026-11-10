@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'Primera nota: '
+5
+1
+5
+nota1
+4
+1
+16
+'Segunda nota: '
+5
+1
+5
+nota2
+4
+1
+16
+'Tercera nota: '
+5
+1
+5
+nota3
+6
+1
+8
+promedio
+27
+(nota1 + nota2 + nota3) / 3
+4
+1
+26
+'Promedio:', ' ', promedio
+1
