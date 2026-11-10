@@ -1,7 +1,7 @@
 # Ejercicio 01: Acceso a una plataforma
 # Enunciado: Solicitar usuario y si la contraseña es correcta. Si el usuario es 'aprendiz' y la contraseña es correcta, permitir el acceso.
-# Entrada: Usuario y si la contraseña es correcta  la contraseña es correcta (si/no)
-# Proceso: if anidado
+# Entrada: Usuario y si la contraseña es correcta  la contraseña es correcta (si/no) utilizando lower() == si para que convienta las minusculas en mayuscula 
+# Proceso: if anidado 
 # Salida: Acceso permitido o rechazado
 
 usuario = input("ingrese el nombre de Usuario: ")
